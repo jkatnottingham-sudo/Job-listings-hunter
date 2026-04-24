@@ -1,0 +1,154 @@
+adzuna:
+  app_id: "d2d34573"
+  app_key: "2cee2ab04f1519850a6090d3fdef20c2"
+  country: "gb"
+  results_per_page: 50
+  max_pages: 5
+
+search:
+  # Keywords to search for (OR logic — any match triggers fetch)
+  keywords:
+    - "product owner"
+    
+
+  # Location filter (leave empty for all UK)
+  location: ""
+
+filters:
+  # Salary filters (set to 0 to disable)
+  min_salary: 0
+  max_salary: 0  # 0 = no upper limit
+
+  # Job type: "full_time", "part_time", "permanent", "contract", or "" for all
+  job_type: ""
+
+  # Remote filter: true = only remote jobs, false = all jobs
+  remote_only: false
+
+  # Keywords that MUST appear in title or description (AND logic)
+  #required_keywords: ["TOGAF", "HLD"]
+
+  # Keywords that disqualify a listing if found in title or description
+  exclude_keywords:
+    - "SC Clearance"
+  #  - "principal"
+  #  - "lead"
+  #  - "manager"
+  #  - "director"
+  #  - "VP"
+  #  - "head of"
+
+  # Minimum company/category — leave empty to allow all
+  categories: []  # e.g. ["it-jobs", "engineering-jobs"]
+
+defaults:
+  search:
+    location: ""
+  filters:
+    min_salary: 0
+    max_salary: 0
+    job_type: ""
+    remote_only: false
+    required_keywords: []
+    exclude_keywords:
+      - "SC Clearance"
+    categories: []
+  ai:
+    must_have_keywords: []
+    nice_to_have_keywords: []
+    avoid_keywords:
+      - "SC Clearance"
+
+roles:
+  - name: "Product Owner"
+    enabled: true
+    priority: 1
+    search:
+      keywords:
+        - "product owner"
+    filters:
+      required_keywords: []
+      exclude_keywords:
+        - "SC Clearance"
+    ai:
+      target_roles:
+        - "Product Owner"
+      must_have_keywords: []
+      nice_to_have_keywords:
+        - "AWS"
+        - "Azure"
+        - "Architecture"
+        - "Stakeholder"
+        - "Roadmap"
+      avoid_keywords:
+        - "SC Clearance"
+    limits:
+      max_jobs_to_evaluate: 120
+      top_k: 30
+
+  - name: "Solutions Architect"
+    enabled: true
+    priority: 2
+    search:
+      keywords:
+        - "solutions architect"
+        - "solution architect"
+    filters:
+      required_keywords: []
+      exclude_keywords:
+        - "SC Clearance"
+    ai:
+      target_roles:
+        - "Solutions Architect"
+      must_have_keywords: []
+      nice_to_have_keywords:
+        - "AWS"
+        - "Azure"
+        - "Architecture"
+        - "Stakeholder"
+        - "Roadmap"
+      avoid_keywords:
+        - "SC Clearance"
+    limits:
+      max_jobs_to_evaluate: 120
+      top_k: 30
+
+ai:
+  # Optional AI ranking layer to produce a more meaningful shortlist.
+  enabled: true
+
+  # "replace" = AI shortlists from fetched jobs (best when strict filters return 0)
+  # "augment" = AI reranks jobs that already passed normal filters
+  mode: "replace"
+
+  # Groq OpenAI-compatible chat endpoint and model.
+  endpoint: "https://api.groq.com/openai/v1/chat/completions"
+  model: "llama-3.3-70b-versatile"
+  # Optional: set key directly here if environment variables are unreliable.
+  # api_key: "gsk_..."
+  api_key_env: "GROQ_API_KEY"
+  use_json_mode: true
+
+  # Control cost and response size.
+  max_jobs_to_evaluate: 120
+  top_k: 30
+  max_description_chars: 400
+  timeout_seconds: 45
+
+  # AI matching profile.
+  target_roles: ["Product Owner"]
+  must_have_keywords: []
+  nice_to_have_keywords: ["AWS", "Azure", "Architecture", "Stakeholder", "Roadmap"]
+  avoid_keywords: ["SC Clearance"]
+
+email:
+  # SMTP settings
+  smtp_host: "smtp.gmail.com"
+  smtp_port: 587
+  smtp_user: "jkatnottingham@gmail.com"
+  smtp_password: "gtjv vqeu pdbo dpjx"
+  from_address: "jkatnottingham@gmail.com"
+  to_address: "jkatnottingham@gmail.com"
+
+  # Send even if no new jobs found
+  send_if_empty: false

@@ -1,0 +1,194 @@
+2026-04-17 17:58:57,414 [INFO] === Job Hunt starting ===
+2026-04-17 17:58:57,420 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-17 17:59:08,753 [INFO] Fetching jobs for keyword: 'software architect'
+2026-04-17 17:59:20,091 [INFO] Fetched 500 unique jobs across all keywords
+2026-04-17 17:59:20,094 [INFO] Filter result: 0/500 jobs passed
+2026-04-17 17:59:20,094 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-17 17:59:20,094 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-17 18:01:42,454 [INFO] === Job Hunt starting ===
+2026-04-17 18:01:42,457 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-17 18:02:11,175 [INFO] === Job Hunt starting ===
+2026-04-17 18:02:11,179 [INFO] Fetching jobs for keyword: 'software architect'
+2026-04-17 18:02:22,700 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-17 18:02:22,702 [INFO] Filter result: 0/250 jobs passed
+2026-04-17 18:02:22,702 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-17 18:02:22,702 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-17 18:03:14,572 [INFO] === Job Hunt starting ===
+2026-04-17 18:03:14,575 [INFO] Fetching jobs for keyword: 'software architect'
+2026-04-17 18:03:26,715 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-17 18:03:26,716 [INFO] Filter result: 250/250 jobs passed
+2026-04-17 18:03:26,717 [INFO] Dedup: 250 new out of 250 filtered jobs
+2026-04-17 18:03:27,871 [INFO] Email sent to jkatnottingham@gmail.com with 250 jobs
+2026-04-17 18:03:27,877 [INFO] Marked 250 jobs as seen
+2026-04-17 18:03:27,877 [INFO] === Job Hunt done — 250 new job(s) reported ===
+2026-04-17 18:06:09,370 [INFO] === Job Hunt starting ===
+2026-04-17 18:06:09,373 [INFO] Fetching jobs for keyword: 'software architect'
+2026-04-17 18:06:22,374 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-17 18:06:22,376 [INFO] Filter result: 82/250 jobs passed
+2026-04-17 18:06:22,378 [INFO] Dedup: 0 new out of 82 filtered jobs
+2026-04-17 18:06:22,378 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-17 18:06:22,378 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-17 18:08:09,260 [INFO] === Job Hunt starting ===
+2026-04-17 18:08:09,263 [INFO] Fetching jobs for keyword: 'software architect'
+2026-04-17 18:08:22,206 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-17 18:08:22,207 [INFO] Filter result: 82/250 jobs passed
+2026-04-17 18:08:22,209 [INFO] Dedup: 0 new out of 82 filtered jobs
+2026-04-17 18:08:22,209 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-17 18:08:22,209 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-17 18:08:55,059 [INFO] === Job Hunt starting ===
+2026-04-17 18:08:55,062 [INFO] Fetching jobs for keyword: 'software architect'
+2026-04-17 18:09:05,836 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-17 18:09:05,838 [INFO] Filter result: 82/250 jobs passed
+2026-04-17 18:09:05,839 [INFO] Dedup: 0 new out of 82 filtered jobs
+2026-04-17 18:09:05,839 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-17 18:09:05,839 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-17 18:12:53,447 [INFO] Seen-jobs history cleared
+2026-04-17 18:12:53,447 [INFO] Reset done — run main.py again to get a fresh report
+2026-04-17 18:12:57,356 [INFO] === Job Hunt starting ===
+2026-04-17 18:12:57,359 [INFO] Fetching jobs for keyword: 'software architect'
+2026-04-17 18:13:10,464 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-17 18:13:10,466 [INFO] Filter result: 81/250 jobs passed
+2026-04-17 18:13:10,467 [INFO] Dedup: 81 new out of 81 filtered jobs
+2026-04-17 18:13:11,325 [INFO] Email sent to jkatnottingham@gmail.com with 81 jobs
+2026-04-17 18:13:11,332 [INFO] Marked 81 jobs as seen
+2026-04-17 18:13:11,332 [INFO] === Job Hunt done — 81 new job(s) reported ===
+2026-04-17 18:15:37,343 [INFO] === Job Hunt starting ===
+2026-04-17 18:15:37,346 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-17 18:15:49,969 [INFO] Fetching jobs for keyword: 'solutions designer'
+2026-04-17 18:16:01,957 [INFO] Fetched 470 unique jobs across all keywords
+2026-04-17 18:16:01,960 [INFO] Filter result: 124/470 jobs passed
+2026-04-17 18:16:01,961 [INFO] Dedup: 124 new out of 124 filtered jobs
+2026-04-17 18:16:03,320 [INFO] Email sent to jkatnottingham@gmail.com with 124 jobs
+2026-04-17 18:16:03,325 [INFO] Marked 124 jobs as seen
+2026-04-17 18:16:03,325 [INFO] === Job Hunt done — 124 new job(s) reported ===
+2026-04-17 18:18:46,205 [INFO] Seen-jobs history cleared
+2026-04-17 18:18:46,205 [INFO] Reset done — run main.py again to get a fresh report
+2026-04-17 18:18:48,887 [INFO] === Job Hunt starting ===
+2026-04-17 18:19:10,496 [INFO] === Job Hunt starting ===
+2026-04-17 18:22:22,891 [INFO] === Job Hunt starting ===
+2026-04-17 18:22:53,939 [INFO] === Job Hunt starting ===
+2026-04-17 18:22:53,943 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-17 18:23:06,259 [INFO] Fetching jobs for keyword: 'solutions designer'
+2026-04-17 18:23:18,430 [INFO] Fetched 470 unique jobs across all keywords
+2026-04-17 18:23:18,433 [INFO] Filter result: 0/470 jobs passed
+2026-04-17 18:23:18,433 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-17 18:23:18,433 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-17 18:23:21,752 [INFO] === Job Hunt starting ===
+2026-04-17 18:23:21,755 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-17 18:23:32,129 [INFO] Fetching jobs for keyword: 'solutions designer'
+2026-04-17 18:23:42,598 [INFO] Fetched 470 unique jobs across all keywords
+2026-04-17 18:23:42,601 [INFO] Filter result: 0/470 jobs passed
+2026-04-17 18:23:42,601 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-17 18:23:42,601 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-17 18:24:25,929 [INFO] === Job Hunt starting ===
+2026-04-17 18:24:25,932 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-17 18:24:36,785 [INFO] Fetching jobs for keyword: 'solutions designer'
+2026-04-17 18:24:46,643 [INFO] Fetched 470 unique jobs across all keywords
+2026-04-17 18:24:46,646 [INFO] Filter result: 0/470 jobs passed
+2026-04-17 18:24:46,646 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-17 18:24:46,646 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-17 18:25:11,563 [INFO] === Job Hunt starting ===
+2026-04-17 18:25:11,567 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-17 18:25:22,120 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-17 18:25:22,123 [INFO] Filter result: 119/250 jobs passed
+2026-04-17 18:25:22,124 [INFO] Dedup: 119 new out of 119 filtered jobs
+2026-04-17 18:25:23,081 [INFO] Email sent to jkatnottingham@gmail.com with 119 jobs
+2026-04-17 18:25:23,086 [INFO] Marked 119 jobs as seen
+2026-04-17 18:25:23,087 [INFO] === Job Hunt done — 119 new job(s) reported ===
+2026-04-18 13:40:27,547 [INFO] === Job Hunt starting ===
+2026-04-18 13:40:27,551 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-18 13:40:39,473 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-18 13:40:52,223 [INFO] Fetched 500 unique jobs across all keywords
+2026-04-18 13:40:52,226 [INFO] Filter result: 0/500 jobs passed
+2026-04-18 13:40:52,227 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-18 13:40:52,227 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-20 17:11:13,002 [INFO] === Job Hunt starting ===
+2026-04-20 17:11:13,015 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-20 17:11:24,668 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-20 17:11:36,425 [INFO] Fetched 500 unique jobs across all keywords
+2026-04-20 17:11:36,429 [INFO] Filter result: 0/500 jobs passed
+2026-04-20 17:11:36,429 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-20 17:11:36,429 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-20 17:12:59,508 [INFO] === Job Hunt starting ===
+2026-04-20 17:12:59,512 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-20 17:13:10,487 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-20 17:13:20,280 [INFO] Fetched 500 unique jobs across all keywords
+2026-04-20 17:13:20,283 [INFO] Filter result: 0/500 jobs passed
+2026-04-20 17:13:20,283 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-20 17:13:20,283 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-20 17:15:29,817 [INFO] === Job Hunt starting ===
+2026-04-20 17:15:29,820 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-20 17:15:39,385 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-20 17:15:48,722 [INFO] Fetched 500 unique jobs across all keywords
+2026-04-20 17:15:48,726 [INFO] Filter result: 0/500 jobs passed
+2026-04-20 17:15:48,726 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-04-20 17:15:48,727 [INFO] === Job Hunt done — 0 new job(s) reported ===
+2026-04-20 17:18:28,000 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-20 17:18:38,529 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-20 17:18:49,155 [INFO] Fetched 500 unique jobs across all keywords
+2026-04-20 17:39:57,080 [INFO] === Job Hunt starting ===
+2026-04-20 17:39:57,084 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-20 17:40:09,455 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-20 17:40:09,457 [INFO] Filter result: 250/250 jobs passed
+2026-04-20 17:40:09,458 [WARNING] AI ranking enabled but OPENAI_API_KEY is not set; skipping AI step
+2026-04-20 17:40:09,458 [INFO] Post-AI result: 250 jobs
+2026-04-20 17:40:11,057 [INFO] Email sent to jkatnottingham@gmail.com with 250 jobs
+2026-04-20 17:40:11,058 [INFO] === Job Hunt done — 250 job(s) reported ===
+2026-04-20 21:30:34,638 [INFO] === Job Hunt starting ===
+2026-04-20 21:30:34,642 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-20 21:30:45,469 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-20 21:30:45,471 [INFO] Filter result: 250/250 jobs passed
+2026-04-20 21:30:45,471 [WARNING] AI ranking enabled but GROQ_API_KEY is not set; skipping AI step
+2026-04-20 21:30:45,472 [INFO] Post-AI result: 250 jobs
+2026-04-20 21:30:46,628 [INFO] Email sent to jkatnottingham@gmail.com with 250 jobs
+2026-04-20 21:30:46,628 [INFO] === Job Hunt done — 250 job(s) reported ===
+2026-04-20 21:37:08,561 [INFO] === Job Hunt starting ===
+2026-04-20 21:37:08,564 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-20 21:37:20,487 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-20 21:37:20,489 [INFO] Filter result: 250/250 jobs passed
+2026-04-20 21:37:20,490 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-04-20 21:37:20,848 [ERROR] AI request/parse failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-20 21:37:20,849 [WARNING] AI ranking failed; falling back to non-AI results
+2026-04-20 21:37:20,850 [INFO] Post-AI result: 250 jobs
+2026-04-20 21:37:21,970 [INFO] Email sent to jkatnottingham@gmail.com with 250 jobs
+2026-04-20 21:37:21,971 [INFO] === Job Hunt done — 250 job(s) reported ===
+2026-04-20 21:39:11,518 [INFO] === Job Hunt starting ===
+2026-04-20 21:39:11,522 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-20 21:39:21,755 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-20 21:39:21,758 [INFO] Filter result: 250/250 jobs passed
+2026-04-20 21:39:21,758 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-04-20 21:39:22,063 [ERROR] AI request/parse failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-20 21:39:22,065 [WARNING] AI ranking failed; falling back to non-AI results
+2026-04-20 21:39:22,065 [INFO] Post-AI result: 250 jobs
+2026-04-20 21:39:23,133 [INFO] Email sent to jkatnottingham@gmail.com with 250 jobs
+2026-04-20 21:39:23,133 [INFO] === Job Hunt done — 250 job(s) reported ===
+2026-04-20 21:41:18,322 [INFO] === Job Hunt starting ===
+2026-04-20 21:41:18,326 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-20 21:41:28,662 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-20 21:41:28,664 [INFO] Filter result: 250/250 jobs passed
+2026-04-20 21:41:28,664 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-04-20 21:41:28,970 [ERROR] AI request unauthorized (401). Verify your Groq API key in ai.api_key or the GROQ_API_KEY environment variable.
+2026-04-20 21:41:28,972 [WARNING] AI ranking failed; falling back to non-AI results
+2026-04-20 21:41:28,972 [INFO] Post-AI result: 250 jobs
+2026-04-20 21:41:31,628 [INFO] Email sent to jkatnottingham@gmail.com with 250 jobs
+2026-04-20 21:41:31,628 [INFO] === Job Hunt done — 250 job(s) reported ===
+2026-04-20 21:44:29,069 [INFO] === Job Hunt starting ===
+2026-04-20 21:44:29,073 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-20 21:44:39,876 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-20 21:44:39,878 [INFO] Filter result: 250/250 jobs passed
+2026-04-20 21:44:39,878 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-04-20 21:44:40,217 [ERROR] AI request/parse failed: 413 Client Error: Payload Too Large for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-20 21:44:40,220 [WARNING] AI ranking failed; falling back to non-AI results
+2026-04-20 21:44:40,220 [INFO] Post-AI result: 250 jobs
+2026-04-20 21:44:41,286 [INFO] Email sent to jkatnottingham@gmail.com with 250 jobs
+2026-04-20 21:44:41,286 [INFO] === Job Hunt done — 250 job(s) reported ===
+2026-04-20 21:46:54,466 [INFO] === Job Hunt starting ===
+2026-04-20 21:46:54,469 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-20 21:47:04,341 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-20 21:47:04,343 [INFO] Filter result: 250/250 jobs passed
+2026-04-20 21:47:04,344 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-04-20 21:47:04,669 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-04-20 21:47:07,535 [INFO] AI shortlist: 10 selected out of 78 candidates
+2026-04-20 21:47:07,536 [INFO] Post-AI result: 10 jobs
+2026-04-20 21:47:08,287 [INFO] Email sent to jkatnottingham@gmail.com with 10 jobs
+2026-04-20 21:47:08,288 [INFO] === Job Hunt done — 10 job(s) reported ===

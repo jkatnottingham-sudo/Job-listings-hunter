@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Job Hunter (manual run)",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["main.py"],
+      "port": 3000
+    },
+    {
+      "name": "Setup Scheduler",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["setup_scheduler.py"],
+      "port": 3001
+    }
+  ]
+}
