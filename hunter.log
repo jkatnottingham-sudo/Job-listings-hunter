@@ -192,3 +192,69 @@
 2026-04-20 21:47:07,536 [INFO] Post-AI result: 10 jobs
 2026-04-20 21:47:08,287 [INFO] Email sent to jkatnottingham@gmail.com with 10 jobs
 2026-04-20 21:47:08,288 [INFO] === Job Hunt done — 10 job(s) reported ===
+2026-04-27 14:05:37,956 [INFO] === Job Hunt starting ===
+2026-04-27 14:05:37,962 [INFO] === Processing role: Product Owner ===
+2026-04-27 14:05:37,963 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-27 14:05:49,047 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-27 14:05:49,049 [INFO] Filter result: 250/250 jobs passed
+2026-04-27 14:05:49,049 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-04-27 14:05:49,450 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-04-27 14:05:53,776 [INFO] AI shortlist: 32 selected out of 78 candidates
+2026-04-27 14:05:53,777 [INFO] Post-AI result (Product Owner): 32 jobs
+2026-04-27 14:05:53,777 [INFO] === Processing role: Solutions Architect ===
+2026-04-27 14:05:53,777 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-27 14:06:05,418 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-04-27 14:06:15,979 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-27 14:06:15,981 [INFO] Filter result: 246/250 jobs passed
+2026-04-27 14:06:15,982 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-04-27 14:06:16,362 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-04-27 14:06:16,707 [ERROR] AI request/parse failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-27 14:06:16,708 [WARNING] AI ranking failed; falling back to non-AI results
+2026-04-27 14:06:16,709 [INFO] Post-AI result (Solutions Architect): 250 jobs
+2026-04-27 14:06:18,147 [INFO] Email sent to jkatnottingham@gmail.com with 282 jobs
+2026-04-27 14:06:18,148 [INFO] === Job Hunt done — 282 job(s) reported ===
+2026-04-28 12:47:30,713 [INFO] === Job Hunt starting ===
+2026-04-28 12:47:30,719 [INFO] === Processing role: Product Owner ===
+2026-04-28 12:47:30,720 [INFO] Fetching jobs for keyword: 'product owner'
+2026-04-28 12:47:43,292 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-28 12:47:43,294 [INFO] Filter result: 250/250 jobs passed
+2026-04-28 12:47:43,294 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-04-28 12:47:43,703 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-04-28 12:47:46,671 [INFO] AI shortlist: 32 selected out of 78 candidates
+2026-04-28 12:47:46,672 [INFO] Post-AI result (Product Owner): 32 jobs
+2026-04-28 12:47:46,672 [INFO] === Processing role: Solutions Architect ===
+2026-04-28 12:47:46,672 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-28 12:47:57,871 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-04-28 12:48:09,995 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-28 12:48:09,997 [INFO] Filter result: 250/250 jobs passed
+2026-04-28 12:48:09,998 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-04-28 12:48:10,366 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-04-28 12:48:10,682 [ERROR] AI request/parse failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-28 12:48:10,683 [WARNING] AI ranking failed; falling back to non-AI results
+2026-04-28 12:48:10,683 [INFO] Post-AI result (Solutions Architect): 250 jobs
+2026-04-28 12:48:11,980 [INFO] Email sent to jkatnottingham@gmail.com with 282 jobs
+2026-04-28 12:48:11,981 [INFO] === Job Hunt done — 282 job(s) reported ===
+2026-04-28 12:56:00,690 [INFO] === Job Hunt starting ===
+2026-04-28 12:56:00,696 [INFO] === Processing role: Solutions Architect ===
+2026-04-28 12:56:00,696 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-04-28 12:56:13,198 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-04-28 12:56:22,743 [INFO] Fetched 250 unique jobs across all keywords
+2026-04-28 12:56:22,746 [INFO] Filter result: 250/250 jobs passed
+2026-04-28 12:56:22,746 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-04-28 12:56:23,224 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-04-28 12:56:26,851 [INFO] AI shortlist: 38 selected out of 78 candidates
+2026-04-28 12:56:26,851 [INFO] Post-AI result (Solutions Architect): 38 jobs
+2026-04-28 12:56:27,763 [INFO] Email sent to jkatnottingham@gmail.com with 38 jobs
+2026-04-28 12:56:27,763 [INFO] === Job Hunt done — 38 job(s) reported ===
+2026-05-12 10:29:43,855 [INFO] === Job Hunt starting ===
+2026-05-12 10:29:43,861 [INFO] === Processing role: Solutions Architect ===
+2026-05-12 10:29:43,861 [INFO] Fetching jobs for keyword: 'solutions architect'
+2026-05-12 10:29:57,311 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-12 10:30:18,789 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-12 10:30:18,793 [INFO] Filter result: 242/250 jobs passed
+2026-05-12 10:30:18,793 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-05-12 10:30:19,999 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-05-12 10:30:23,972 [INFO] AI shortlist: 28 selected out of 78 candidates
+2026-05-12 10:30:23,972 [INFO] Post-AI result (Solutions Architect): 28 jobs
+2026-05-12 10:30:25,006 [INFO] Email sent to jkatnottingham@gmail.com with 28 jobs
+2026-05-12 10:30:25,007 [INFO] === Job Hunt done — 28 job(s) reported ===

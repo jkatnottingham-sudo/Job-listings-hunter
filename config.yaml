@@ -1,18 +1,18 @@
 adzuna:
   app_id: "d2d34573"
   app_key: "2cee2ab04f1519850a6090d3fdef20c2"
-  country: "gb"
+  country: "in"
   results_per_page: 50
   max_pages: 5
 
 search:
   # Keywords to search for (OR logic — any match triggers fetch)
   keywords:
-    - "product owner"
+    - "Solutions Architect"
     
 
   # Location filter (leave empty for all UK)
-  location: ""
+  location: "India"
 
 filters:
   # Salary filters (set to 0 to disable)
@@ -30,13 +30,13 @@ filters:
 
   # Keywords that disqualify a listing if found in title or description
   exclude_keywords:
-    - "SC Clearance"
-  #  - "principal"
+  #  - "SC Clearance"
+    - "principal"
   #  - "lead"
   #  - "manager"
-  #  - "director"
-  #  - "VP"
-  #  - "head of"
+    - "director"
+    - "VP"
+    - "head of"
 
   # Minimum company/category — leave empty to allow all
   categories: []  # e.g. ["it-jobs", "engineering-jobs"]
@@ -60,58 +60,58 @@ defaults:
       - "SC Clearance"
 
 roles:
-  - name: "Product Owner"
-    enabled: true
-    priority: 1
-    search:
-      keywords:
-        - "product owner"
-    filters:
-      required_keywords: []
-      exclude_keywords:
-        - "SC Clearance"
-    ai:
-      target_roles:
-        - "Product Owner"
-      must_have_keywords: []
-      nice_to_have_keywords:
-        - "AWS"
-        - "Azure"
-        - "Architecture"
-        - "Stakeholder"
-        - "Roadmap"
-      avoid_keywords:
-        - "SC Clearance"
-    limits:
-      max_jobs_to_evaluate: 120
-      top_k: 30
+  # - name: "Product Owner"
+  #   enabled: true
+  #   priority: 1
+  #   search:
+  #     keywords:
+  #       - "product owner"
+  #   filters:
+  #     required_keywords: []
+  #     exclude_keywords:
+  #       - "SC Clearance"
+  #   ai:
+  #     target_roles:
+  #       - "Product Owner"
+  #     must_have_keywords: []
+  #     nice_to_have_keywords:
+  #       - "AWS"
+  #       - "Azure"
+  #       - "Architecture"
+  #       - "Stakeholder"
+  #       - "Roadmap"
+  #     avoid_keywords:
+  #       - "SC Clearance"
+  #   limits:
+  #     max_jobs_to_evaluate: 120
+  #     top_k: 30
 
+  # Role profile for "Solutions Architect"
   - name: "Solutions Architect"
-    enabled: true
-    priority: 2
+    enabled: true  # Enable/disable role for job search
+    priority: 2    # Lower number = higher priority in reports
     search:
       keywords:
         - "solutions architect"
         - "solution architect"
     filters:
-      required_keywords: []
+      required_keywords: []  # No required keywords for filtering
       exclude_keywords:
-        - "SC Clearance"
+        - "ServiceNow"     # Exclude jobs mentioning SC Clearance
     ai:
       target_roles:
-        - "Solutions Architect"
-      must_have_keywords: []
+        - "Solution Architect"  # Role name for AI matching
+      must_have_keywords: []     # No must-have keywords for AI shortlisting
       nice_to_have_keywords:
         - "AWS"
-        - "Azure"
         - "Architecture"
-        - "Stakeholder"
-        - "Roadmap"
+        - "TMF ODA"
+        - "Telecom"
       avoid_keywords:
-        - "SC Clearance"
+        - "SC Clearance"        # AI to avoid jobs with SC Clearance
     limits:
-      max_jobs_to_evaluate: 120
-      top_k: 30
+      max_jobs_to_evaluate: 120  # Max jobs AI reviews for this role
+      top_k: 30                  # AI will return up to 30 best matches
 
 ai:
   # Optional AI ranking layer to produce a more meaningful shortlist.
@@ -138,7 +138,7 @@ ai:
   # AI matching profile.
   target_roles: ["Product Owner"]
   must_have_keywords: []
-  nice_to_have_keywords: ["AWS", "Azure", "Architecture", "Stakeholder", "Roadmap"]
+  nice_to_have_keywords: ["AWS", "Azure", "Architecture", "Stakeholder", "Roadmap", "Telecom"]
   avoid_keywords: ["SC Clearance"]
 
 email:
