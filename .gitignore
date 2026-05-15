@@ -1,0 +1,14 @@
+# Local secrets / config
+config.yaml
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+# Logs & runtime
+hunter.log
+*.log
+# OS / editor (optional)
+.env
+.DS_Store

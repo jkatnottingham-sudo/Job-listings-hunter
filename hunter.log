@@ -609,3 +609,89 @@
 2026-05-15 10:51:56,877 [INFO] Post-LLM result (Solutions Architect): 1 jobs
 2026-05-15 10:51:57,813 [INFO] Email sent to jkatnottingham@gmail.com with 1 jobs
 2026-05-15 10:51:57,814 [INFO] === Job Hunt done — 1 job(s) reported ===
+2026-05-15 12:30:55,540 [INFO] === Job Hunt starting ===
+2026-05-15 12:30:55,545 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 12:30:55,545 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-15 12:30:57,088 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-15 12:30:58,388 [INFO] Fetched 1 unique jobs across all keywords
+2026-05-15 12:30:58,389 [INFO] Filter result: 0/1 jobs passed
+2026-05-15 12:32:16,768 [INFO] === Job Hunt starting ===
+2026-05-15 12:32:16,772 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 12:32:16,773 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-15 12:32:18,258 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-15 12:32:19,570 [INFO] Fetched 1 unique jobs across all keywords
+2026-05-15 12:32:19,571 [INFO] Filter result: 0/1 jobs passed
+2026-05-15 12:33:23,373 [INFO] === Job Hunt starting ===
+2026-05-15 12:33:23,378 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 12:33:23,380 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-15 12:33:24,993 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-15 12:33:26,693 [INFO] Fetched 1 unique jobs across all keywords
+2026-05-15 12:33:26,694 [INFO] Filter result: 0/1 jobs passed
+2026-05-15 12:33:26,695 [INFO] AI ranking 1 candidate jobs (from 1 fetched)
+2026-05-15 12:33:27,335 [INFO] AI shortlist: 1 selected out of 1 candidates
+2026-05-15 12:33:27,335 [INFO] Post-LLM result (Solutions Architect): 1 jobs
+2026-05-15 12:33:28,566 [INFO] Email sent to jkatnottingham@gmail.com with 1 jobs
+2026-05-15 12:33:28,566 [INFO] === Job Hunt done — 1 job(s) reported ===
+2026-05-15 12:33:40,167 [INFO] === Job Hunt starting ===
+2026-05-15 12:33:40,172 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 12:33:40,173 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-15 12:33:41,943 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-15 12:33:43,257 [INFO] Fetched 1 unique jobs across all keywords
+2026-05-15 12:33:43,259 [INFO] Filter result: 0/1 jobs passed
+2026-05-15 12:33:43,259 [INFO] AI ranking 1 candidate jobs (from 1 fetched)
+2026-05-15 12:33:44,010 [INFO] AI shortlist: 1 selected out of 1 candidates
+2026-05-15 12:33:44,011 [INFO] Post-LLM result (Solutions Architect): 1 jobs
+2026-05-15 12:33:45,151 [INFO] Email sent to jkatnottingham@gmail.com with 1 jobs
+2026-05-15 12:33:45,151 [INFO] === Job Hunt done — 1 job(s) reported ===
+2026-05-15 12:34:13,588 [INFO] === Job Hunt starting ===
+2026-05-15 12:34:13,592 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 12:34:13,593 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-15 12:34:15,264 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-15 12:34:16,768 [INFO] Fetched 1 unique jobs across all keywords
+2026-05-15 12:34:16,769 [INFO] Filter result: 0/1 jobs passed
+2026-05-15 12:34:16,769 [INFO] AI ranking 1 candidate jobs (from 1 fetched)
+2026-05-15 12:34:17,394 [INFO] AI shortlist: 1 selected out of 1 candidates
+2026-05-15 12:34:17,394 [INFO] Post-LLM result (Solutions Architect): 1 jobs
+2026-05-15 12:37:58,412 [INFO] === Job Hunt starting ===
+2026-05-15 12:37:58,418 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 12:37:58,419 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-15 12:37:59,837 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-15 12:38:01,140 [INFO] Fetched 1 unique jobs across all keywords
+2026-05-15 12:38:01,141 [INFO] Filter result: 0/1 jobs passed
+2026-05-15 12:38:01,142 [INFO] AI ranking 1 candidate jobs (from 1 fetched)
+2026-05-15 12:38:01,666 [INFO] AI shortlist: 1 selected out of 1 candidates
+2026-05-15 12:38:01,667 [INFO] Post-LLM result (Solutions Architect): 1 jobs
+2026-05-15 12:38:02,495 [INFO] Email sent to jkatnottingham@gmail.com with 1 jobs
+2026-05-15 12:38:02,496 [INFO] === Job Hunt done — 1 job(s) reported ===
+2026-05-15 12:39:32,944 [INFO] === Job Hunt starting ===
+2026-05-15 12:39:32,949 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 12:39:32,950 [ERROR] Adzuna credentials missing. Set ADZUNA_APP_ID and ADZUNA_APP_KEY (or adzuna.app_id / adzuna.app_key in config.yaml).
+2026-05-15 12:39:32,950 [INFO] Filter result: 0/0 jobs passed
+2026-05-15 12:39:32,951 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-15 12:39:32,951 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-15 12:39:32,951 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-15 12:42:54,038 [INFO] === Job Hunt starting ===
+2026-05-15 12:42:54,043 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 12:42:54,044 [ERROR] Adzuna credentials missing. Set ADZUNA_APP_ID and ADZUNA_APP_KEY (or adzuna.app_id / adzuna.app_key in config.yaml).
+2026-05-15 12:42:54,044 [INFO] Filter result: 0/0 jobs passed
+2026-05-15 12:42:54,044 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-15 12:42:54,045 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-15 12:42:54,045 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-15 12:43:08,464 [INFO] === Job Hunt starting ===
+2026-05-15 12:43:08,468 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 12:43:08,469 [ERROR] Adzuna credentials missing. Set ADZUNA_APP_ID and ADZUNA_APP_KEY (or adzuna.app_id / adzuna.app_key in config.yaml).
+2026-05-15 12:43:08,469 [INFO] Filter result: 0/0 jobs passed
+2026-05-15 12:43:08,470 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-15 12:43:08,470 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-15 12:43:08,470 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-15 12:46:12,419 [INFO] === Job Hunt starting ===
+2026-05-15 12:46:12,424 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 12:46:12,425 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-15 12:46:13,976 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-15 12:46:15,467 [INFO] Fetched 1 unique jobs across all keywords
+2026-05-15 12:46:15,468 [INFO] Filter result: 0/1 jobs passed
+2026-05-15 12:46:15,468 [INFO] AI ranking 1 candidate jobs (from 1 fetched)
+2026-05-15 12:46:15,991 [INFO] AI shortlist: 1 selected out of 1 candidates
+2026-05-15 12:46:15,991 [INFO] Post-LLM result (Solutions Architect): 1 jobs
+2026-05-15 12:46:16,785 [INFO] Email sent to jkatnottingham@gmail.com with 1 jobs
+2026-05-15 12:46:16,786 [INFO] === Job Hunt done — 1 job(s) reported ===

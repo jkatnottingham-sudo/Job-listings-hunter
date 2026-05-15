@@ -10,6 +10,13 @@ logger = logging.getLogger(__name__)
 def fetch_jobs(config: dict) -> list[dict]:
     """Fetch all jobs from Adzuna matching the configured search terms."""
     adzuna_cfg = config["adzuna"]
+    if not adzuna_cfg.get("app_id") or not adzuna_cfg.get("app_key"):
+        logger.error(
+            "Adzuna credentials missing. Set ADZUNA_APP_ID and ADZUNA_APP_KEY "
+            "(or adzuna.app_id / adzuna.app_key in config.yaml)."
+        )
+        return []
+
     search_cfg = config["search"]
     filters = config["filters"]
 

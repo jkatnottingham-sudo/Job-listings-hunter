@@ -1,11 +1,21 @@
+# Copy to config.yaml and customize (config.yaml is gitignored).
+#
+# Required environment variables:
+#   ADZUNA_APP_ID, ADZUNA_APP_KEY  — from https://developer.adzuna.com/
+#   GROQ_API_KEY                    — from https://console.groq.com/ (if llm.enabled)
+#   SMTP_USER, SMTP_PASSWORD        — Gmail address and app password (or your SMTP credentials)
+#
+# PowerShell example:
+#   $env:ADZUNA_APP_ID = "your-id"
+#   $env:ADZUNA_APP_KEY = "your-key"
+#   $env:GROQ_API_KEY = "gsk_..."
+#   $env:SMTP_USER = "you@gmail.com"
+#   $env:SMTP_PASSWORD = "your-app-password"
 
-
-# Default job source when roles[].primary.source is omitted. Search and filters live under roles[].primary only.
 primary:
   source: adzuna
 
 defaults:
-  # Baseline merged before each role's primary (search.keywords / filter lists union with the role).
   primary:
     search:
       location: ""
@@ -24,55 +34,44 @@ defaults:
     avoid_keywords:
       - "SC Clearance"
 
-# Roles to search for. 
-#Do ensure that roles.primary.search.keywords and roles.llm.target_roles are in sync. are in sync.
 roles:
-  - name: "Solutions Architect"
+  - name: "Example Role"
     enabled: true
-    priority: 2
+    priority: 1
     primary:
       source: adzuna
       search:
         keywords:
           - "Solutions Architect"
-          - "solutions architect"
-          - "solution architect"
-        location: "India"
+        location: "London"
       filters:
         min_salary: 0
         max_salary: 0
         job_type: ""
-        required_keywords: ["Telecom","SOM"]
+        required_keywords: []
         exclude_keywords:
           - "principal"
           - "director"
-          - "VP"
-          - "head of"
-          - "ServiceNow"
         categories: []
     llm:
       target_roles:
         - "Solution Architect"
-      must_have_keywords: 
+      must_have_keywords: []
       nice_to_have_keywords:
         - "AWS"
         - "Architecture"
-        - "TMF ODA"
-        - "Telecom"
       avoid_keywords:
         - "SC Clearance"
       max_jobs_to_evaluate: 120
       top_k: 30
 
-# Adzuna API settings (credentials from environment; see config.yaml.example)
 adzuna:
   app_id_env: "ADZUNA_APP_ID"
   app_key_env: "ADZUNA_APP_KEY"
-  country: "in"
+  country: "gb"
   results_per_page: 50
   max_pages: 5
 
-# Shared LLM client settings (endpoint, model, limits). Role-specific matching lives under roles[].llm.
 llm:
   enabled: true
   mode: "replace"
@@ -90,5 +89,5 @@ email:
   smtp_port: 587
   smtp_user_env: "SMTP_USER"
   smtp_password_env: "SMTP_PASSWORD"
-  to_address: "jkatnottingham@gmail.com"
+  to_address: "you@gmail.com"
   send_if_empty: false

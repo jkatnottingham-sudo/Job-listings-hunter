@@ -19,13 +19,21 @@ def send_report(jobs: list[dict], config: dict):
         _print_report(jobs)
         return
 
+    if not email_cfg.get("smtp_password"):
+        logger.warning(
+            "SMTP password not set (smtp_password_env / SMTP_PASSWORD) — "
+            "printing report to console instead"
+        )
+        _print_report(jobs)
+        return
+
     subject = f"Job Hunt Report {date.today()} — {len(jobs)} new listing(s)"
     html = _build_html(jobs)
     plain = _build_plain(jobs)
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
-    msg["From"] = email_cfg["from_address"] or email_cfg["smtp_user"]
+    msg["From"] = email_cfg["smtp_user"]
     msg["To"] = email_cfg["to_address"]
     msg.attach(MIMEText(plain, "plain"))
     msg.attach(MIMEText(html, "html"))
@@ -36,7 +44,7 @@ def send_report(jobs: list[dict], config: dict):
             server.starttls()
             server.login(email_cfg["smtp_user"], email_cfg["smtp_password"])
             server.sendmail(
-                email_cfg["from_address"] or email_cfg["smtp_user"],
+                email_cfg["smtp_user"],
                 email_cfg["to_address"],
                 msg.as_string(),
             )

@@ -11,6 +11,7 @@ from pathlib import Path
 import yaml
 
 from adzuna_client import fetch_jobs
+from secrets import resolve_secret
 from ai_ranker import shortlist_jobs_with_ai
 from filters import apply_filters
 from notifier import send_report
@@ -31,7 +32,30 @@ logger = logging.getLogger(__name__)
 def load_config() -> dict:
     config_path = Path(__file__).parent / "config.yaml"
     with open(config_path, encoding="utf-8") as f:
-        return yaml.safe_load(f)
+        config = yaml.safe_load(f)
+    return _apply_secrets(config)
+
+
+def _apply_secrets(config: dict) -> dict:
+    """Inject API keys and passwords from environment variables."""
+    if not isinstance(config, dict):
+        return config
+
+    adzuna = config.get("adzuna")
+    if isinstance(adzuna, dict):
+        adzuna["app_id"] = resolve_secret(adzuna, "app_id", "app_id_env", "ADZUNA_APP_ID")
+        adzuna["app_key"] = resolve_secret(adzuna, "app_key", "app_key_env", "ADZUNA_APP_KEY")
+
+    email = config.get("email")
+    if isinstance(email, dict):
+        email["smtp_user"] = resolve_secret(
+            email, "smtp_user", "smtp_user_env", "SMTP_USER"
+        )
+        email["smtp_password"] = resolve_secret(
+            email, "smtp_password", "smtp_password_env", "SMTP_PASSWORD"
+        )
+
+    return config
 
 
 def run():
