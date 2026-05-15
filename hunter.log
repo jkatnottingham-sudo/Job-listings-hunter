@@ -258,3 +258,343 @@
 2026-05-12 10:30:23,972 [INFO] Post-AI result (Solutions Architect): 28 jobs
 2026-05-12 10:30:25,006 [INFO] Email sent to jkatnottingham@gmail.com with 28 jobs
 2026-05-12 10:30:25,007 [INFO] === Job Hunt done — 28 job(s) reported ===
+2026-05-13 13:48:35,766 [INFO] === Job Hunt starting ===
+2026-05-13 13:48:35,771 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 13:48:35,772 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 13:48:47,733 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 13:48:57,251 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 13:48:57,254 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 13:48:57,254 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-05-13 13:48:57,880 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-05-13 13:49:01,323 [INFO] AI shortlist: 30 selected out of 78 candidates
+2026-05-13 13:49:01,323 [INFO] Post-LLM result (Solutions Architect): 30 jobs
+2026-05-13 13:49:02,237 [INFO] Email sent to jkatnottingham@gmail.com with 30 jobs
+2026-05-13 13:49:02,237 [INFO] === Job Hunt done — 30 job(s) reported ===
+2026-05-13 13:50:22,830 [INFO] === Job Hunt starting ===
+2026-05-13 13:50:22,834 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 13:50:22,834 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 13:50:32,620 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 13:50:42,095 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 13:50:42,097 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 13:50:42,097 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-05-13 13:50:42,460 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-05-13 13:50:45,988 [INFO] AI shortlist: 36 selected out of 78 candidates
+2026-05-13 13:50:45,989 [INFO] Post-LLM result (Solutions Architect): 36 jobs
+2026-05-13 13:50:46,778 [INFO] Email sent to jkatnottingham@gmail.com with 36 jobs
+2026-05-13 13:50:46,779 [INFO] === Job Hunt done — 36 job(s) reported ===
+2026-05-13 13:53:46,405 [INFO] === Job Hunt starting ===
+2026-05-13 13:53:46,409 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 13:53:46,410 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 13:53:56,975 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 13:54:07,234 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 13:54:07,237 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 13:54:07,237 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-05-13 13:54:07,700 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-05-13 13:54:09,625 [INFO] AI shortlist: 10 selected out of 78 candidates
+2026-05-13 13:54:09,625 [INFO] Post-LLM result (Solutions Architect): 10 jobs
+2026-05-13 13:54:10,655 [INFO] Email sent to jkatnottingham@gmail.com with 10 jobs
+2026-05-13 13:54:10,656 [INFO] === Job Hunt done — 10 job(s) reported ===
+2026-05-13 13:59:15,532 [INFO] === Job Hunt starting ===
+2026-05-13 13:59:15,537 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 13:59:15,537 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 13:59:27,189 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 13:59:38,230 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 13:59:38,233 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 13:59:38,234 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-05-13 13:59:38,600 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-05-13 13:59:44,770 [INFO] AI shortlist: 77 selected out of 78 candidates
+2026-05-13 13:59:44,770 [INFO] Post-LLM result (Solutions Architect): 77 jobs
+2026-05-13 13:59:46,220 [INFO] Email sent to jkatnottingham@gmail.com with 77 jobs
+2026-05-13 13:59:46,220 [INFO] === Job Hunt done — 77 job(s) reported ===
+2026-05-13 14:09:18,963 [INFO] === Job Hunt starting ===
+2026-05-13 14:09:18,967 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 14:09:18,968 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 14:09:30,107 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 14:09:40,436 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 14:09:40,439 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 14:09:40,439 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-05-13 14:09:40,822 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-05-13 14:09:46,490 [INFO] AI shortlist: 77 selected out of 78 candidates
+2026-05-13 14:09:46,490 [INFO] Post-LLM result (Solutions Architect): 77 jobs
+2026-05-13 14:09:47,724 [INFO] Email sent to jkatnottingham@gmail.com with 77 jobs
+2026-05-13 14:09:47,725 [INFO] === Job Hunt done — 77 job(s) reported ===
+2026-05-13 14:22:06,314 [INFO] === Job Hunt starting ===
+2026-05-13 14:22:06,319 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 14:22:06,319 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 14:22:18,204 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 14:22:28,100 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 14:22:28,103 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 14:22:28,104 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['TMF ODA', 'TOGAF', 'Telecom'])
+2026-05-13 14:22:28,105 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 14:22:28,503 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 14:22:28,504 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 14:22:28,504 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 14:22:28,504 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 14:22:47,357 [INFO] === Job Hunt starting ===
+2026-05-13 14:22:47,363 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 14:22:47,363 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 14:22:57,155 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 14:23:07,299 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 14:23:07,302 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 14:23:07,303 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['TOGAF', 'Telecom'])
+2026-05-13 14:23:07,303 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 14:23:07,819 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 14:23:07,820 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 14:23:07,820 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 14:23:07,821 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 14:23:45,683 [INFO] === Job Hunt starting ===
+2026-05-13 14:23:45,687 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 14:23:45,688 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 14:23:55,336 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 14:24:04,694 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 14:24:04,697 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 14:24:04,699 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['TOGAF', '5G'])
+2026-05-13 14:24:04,699 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 14:24:05,108 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 14:24:05,109 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 14:24:05,109 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 14:24:05,109 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 14:25:28,697 [INFO] === Job Hunt starting ===
+2026-05-13 14:25:28,702 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 14:25:28,702 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 14:25:38,519 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 14:25:47,707 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 14:25:47,710 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 14:25:47,712 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['TOGAF', 'Chevron'])
+2026-05-13 14:25:47,712 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 14:25:48,089 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 14:25:48,090 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 14:25:48,090 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 14:25:48,090 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 14:28:49,703 [INFO] === Job Hunt starting ===
+2026-05-13 14:28:49,708 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 14:28:49,709 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 14:29:01,002 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 14:29:11,130 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 14:29:11,132 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 14:29:11,133 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['TOGAF', 'Chevron'])
+2026-05-13 14:29:11,134 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 14:29:11,559 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 14:29:11,559 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 14:29:11,559 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 14:29:11,559 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 14:30:36,153 [INFO] === Job Hunt starting ===
+2026-05-13 14:30:36,157 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 14:30:36,158 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 14:30:46,389 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 14:30:56,667 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 14:30:56,670 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 14:30:56,671 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['TOGAF', 'Chevron'])
+2026-05-13 14:30:56,672 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 14:30:57,079 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 14:30:57,079 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 14:30:57,080 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 14:30:57,080 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 14:33:51,346 [INFO] === Job Hunt starting ===
+2026-05-13 14:33:51,350 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 14:33:51,351 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 14:34:02,492 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 14:34:12,717 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 14:34:12,719 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 14:34:12,721 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['TOGAF', 'Chevron'])
+2026-05-13 14:34:12,721 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 14:34:13,179 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 14:34:13,179 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 14:34:13,180 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 14:34:13,180 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 14:36:04,253 [INFO] === Job Hunt starting ===
+2026-05-13 14:36:04,257 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 14:36:04,258 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 14:36:15,330 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 14:36:25,590 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 14:36:25,592 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 14:36:25,592 [INFO] must_have_keywords: ['TOGAF', 'Chevron']
+2026-05-13 14:36:25,594 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['TOGAF', 'Chevron'])
+2026-05-13 14:36:25,594 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 14:36:26,089 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 14:36:26,090 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 14:36:26,090 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 14:36:26,090 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 18:06:18,614 [INFO] === Job Hunt starting ===
+2026-05-13 18:06:18,618 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 18:06:18,619 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 18:06:31,018 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 18:06:40,919 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 18:06:40,922 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 18:06:40,922 [INFO] must_have_keywords: ['TOGAF', 'Chevron']
+2026-05-13 18:06:40,923 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['TOGAF', 'Chevron'])
+2026-05-13 18:06:40,924 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 18:06:41,353 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 18:06:41,353 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 18:06:41,353 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 18:06:41,353 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 18:07:02,280 [INFO] === Job Hunt starting ===
+2026-05-13 18:07:02,285 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 18:07:02,285 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 18:07:14,855 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 18:07:25,534 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 18:07:25,537 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 18:07:25,537 [INFO] must_have_keywords: ['TOGAF', 'Chevron']
+2026-05-13 18:07:25,538 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['TOGAF', 'Chevron'])
+2026-05-13 18:07:25,539 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 18:07:25,940 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 18:07:25,940 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 18:07:25,941 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 18:07:25,941 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 18:08:46,381 [INFO] === Job Hunt starting ===
+2026-05-13 18:08:46,387 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 18:08:46,388 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 18:08:56,515 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 18:09:07,093 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 18:09:07,096 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 18:09:07,096 [INFO] must_have_keywords: ['TOGAF', 'Chevron']
+2026-05-13 18:09:07,098 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['TOGAF', 'Chevron'])
+2026-05-13 18:09:07,098 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 18:09:07,579 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 18:09:07,579 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 18:09:07,579 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 18:09:07,580 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 18:09:36,361 [INFO] === Job Hunt starting ===
+2026-05-13 18:09:36,367 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 18:09:36,368 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 18:09:46,075 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 18:09:55,464 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 18:09:55,467 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 18:09:55,467 [INFO] must_have_keywords: ['TOGAF']
+2026-05-13 18:09:55,468 [INFO] must_have_keywords filter: 250 → 1 jobs (required all of ['TOGAF'])
+2026-05-13 18:09:55,469 [INFO] AI ranking 1 candidate jobs (from 1 fetched)
+2026-05-13 18:09:55,966 [INFO] AI shortlist: 1 selected out of 1 candidates
+2026-05-13 18:09:55,967 [INFO] Post-LLM result (Solutions Architect): 1 jobs
+2026-05-13 18:09:56,676 [INFO] Email sent to jkatnottingham@gmail.com with 1 jobs
+2026-05-13 18:09:56,677 [INFO] === Job Hunt done — 1 job(s) reported ===
+2026-05-13 18:15:16,957 [INFO] === Job Hunt starting ===
+2026-05-13 18:15:16,962 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 18:15:16,962 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 18:15:27,611 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 18:15:37,877 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 18:15:37,880 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 18:15:37,880 [INFO] "Total Number of Openings 5 The Chevron Engineering and Innovation Excellence Center (ENGINE) in Bengaluru India brings together the resources and expertise of the Chevron global network with talent in India to enhance agility and technological innovation to optimize solutions for the world's current and future energy challenges. As one of the leading energy providers worldwide, Chevron is involved in the production of crude oil and natural gas, manufacturing of transportation fuels, lubricants,…"
+2026-05-13 18:15:37,880 [INFO] must_have_keywords: ['TOGAF']
+2026-05-13 18:15:37,881 [INFO] must_have_keywords filter: 250 → 1 jobs (required all of ['TOGAF'])
+2026-05-13 18:15:37,881 [INFO] AI ranking 1 candidate jobs (from 1 fetched)
+2026-05-13 18:15:38,386 [INFO] AI shortlist: 1 selected out of 1 candidates
+2026-05-13 18:15:38,387 [INFO] Post-LLM result (Solutions Architect): 1 jobs
+2026-05-13 18:15:39,346 [INFO] Email sent to jkatnottingham@gmail.com with 1 jobs
+2026-05-13 18:15:39,346 [INFO] === Job Hunt done — 1 job(s) reported ===
+2026-05-13 18:17:19,541 [INFO] === Job Hunt starting ===
+2026-05-13 18:17:19,546 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 18:17:19,547 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 18:17:30,840 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 18:17:40,681 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 18:17:40,684 [INFO] Filter result: 233/250 jobs passed
+2026-05-13 18:17:40,684 [INFO] "Total Number of Openings 5 The Chevron Engineering and Innovation Excellence Center (ENGINE) in Bengaluru India brings together the resources and expertise of the Chevron global network with talent in India to enhance agility and technological innovation to optimize solutions for the world's current and future energy challenges. As one of the leading energy providers worldwide, Chevron is involved in the production of crude oil and natural gas, manufacturing of transportation fuels, lubricants,…"
+2026-05-13 18:17:40,684 [INFO] must_have_keywords: ['Chevron', 'TOGAF']
+2026-05-13 18:17:40,685 [INFO] must_have_keywords filter: 250 → 0 jobs (required all of ['Chevron', 'TOGAF'])
+2026-05-13 18:17:40,686 [INFO] AI ranking 0 candidate jobs (from 0 fetched)
+2026-05-13 18:17:41,320 [INFO] AI shortlist: 0 selected out of 0 candidates
+2026-05-13 18:17:41,320 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 18:17:41,320 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 18:17:41,321 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 18:29:00,376 [INFO] === Job Hunt starting ===
+2026-05-13 18:29:00,381 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 18:29:00,381 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 18:29:13,037 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 18:29:23,450 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 18:29:23,454 [INFO] Filter result: 0/250 jobs passed
+2026-05-13 18:29:23,455 [INFO] "Total Number of Openings 5 The Chevron Engineering and Innovation Excellence Center (ENGINE) in Bengaluru India brings together the resources and expertise of the Chevron global network with talent in India to enhance agility and technological innovation to optimize solutions for the world's current and future energy challenges. As one of the leading energy providers worldwide, Chevron is involved in the production of crude oil and natural gas, manufacturing of transportation fuels, lubricants,…"
+2026-05-13 18:29:23,455 [INFO] must_have_keywords: None
+2026-05-13 18:29:23,455 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-05-13 18:29:23,815 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-05-13 18:29:31,157 [INFO] AI shortlist: 65 selected out of 78 candidates
+2026-05-13 18:29:31,158 [INFO] Post-LLM result (Solutions Architect): 65 jobs
+2026-05-13 18:29:32,560 [INFO] Email sent to jkatnottingham@gmail.com with 65 jobs
+2026-05-13 18:29:32,560 [INFO] === Job Hunt done — 65 job(s) reported ===
+2026-05-13 18:36:03,179 [INFO] === Job Hunt starting ===
+2026-05-13 18:36:03,184 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 18:36:03,185 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 18:36:13,911 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 18:36:23,154 [INFO] Fetched 250 unique jobs across all keywords
+2026-05-13 18:36:23,158 [INFO] Filter result: 0/250 jobs passed
+2026-05-13 18:36:23,158 [INFO] "Total Number of Openings 5 The Chevron Engineering and Innovation Excellence Center (ENGINE) in Bengaluru India brings together the resources and expertise of the Chevron global network with talent in India to enhance agility and technological innovation to optimize solutions for the world's current and future energy challenges. As one of the leading energy providers worldwide, Chevron is involved in the production of crude oil and natural gas, manufacturing of transportation fuels, lubricants,…"
+2026-05-13 18:36:23,159 [INFO] must_have_keywords: None
+2026-05-13 18:36:23,159 [INFO] AI ranking 120 candidate jobs (from 250 fetched)
+2026-05-13 18:36:23,521 [WARNING] AI payload too large; retrying with 78 jobs and 280 description chars
+2026-05-13 18:36:28,144 [INFO] AI shortlist: 30 selected out of 78 candidates
+2026-05-13 18:36:28,145 [INFO] Post-LLM result (Solutions Architect): 30 jobs
+2026-05-13 18:36:29,283 [INFO] Email sent to jkatnottingham@gmail.com with 30 jobs
+2026-05-13 18:36:29,283 [INFO] === Job Hunt done — 30 job(s) reported ===
+2026-05-13 18:57:10,432 [INFO] === Job Hunt starting ===
+2026-05-13 18:57:10,437 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 18:57:10,437 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 18:57:12,028 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 18:57:13,487 [INFO] Fetched 4 unique jobs across all keywords
+2026-05-13 18:57:13,488 [INFO] Filter result: 4/4 jobs passed
+2026-05-13 18:57:13,488 [INFO] AI ranking 4 candidate jobs (from 4 fetched)
+2026-05-13 18:57:14,307 [INFO] AI shortlist: 4 selected out of 4 candidates
+2026-05-13 18:57:14,307 [INFO] Post-LLM result (Solutions Architect): 4 jobs
+2026-05-13 18:57:15,213 [INFO] Email sent to jkatnottingham@gmail.com with 4 jobs
+2026-05-13 18:57:15,214 [INFO] === Job Hunt done — 4 job(s) reported ===
+2026-05-13 19:00:06,605 [INFO] === Job Hunt starting ===
+2026-05-13 19:00:06,623 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 19:00:06,624 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 19:00:07,398 [ERROR] API request failed (keyword='Solutions Architect', page=1): 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=d2d34573&app_key=2cee2ab04f1519850a6090d3fdef20c2&what=Solutions+Architect&results_per_page=50&content-type=application%2Fjson&where=India&what_and=TOGAF+OSS
+2026-05-13 19:00:07,900 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 19:00:08,661 [ERROR] API request failed (keyword='solution architect', page=1): 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=d2d34573&app_key=2cee2ab04f1519850a6090d3fdef20c2&what=solution+architect&results_per_page=50&content-type=application%2Fjson&where=India&what_and=TOGAF+OSS
+2026-05-13 19:00:09,163 [INFO] Fetched 0 unique jobs across all keywords
+2026-05-13 19:00:09,164 [INFO] Filter result: 0/0 jobs passed
+2026-05-13 19:00:09,164 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 19:00:09,164 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 19:00:09,165 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-13 19:00:35,397 [INFO] === Job Hunt starting ===
+2026-05-13 19:00:35,401 [INFO] === Processing role: Solutions Architect ===
+2026-05-13 19:00:35,402 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-13 19:00:36,446 [ERROR] API request failed (keyword='Solutions Architect', page=1): 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=d2d34573&app_key=2cee2ab04f1519850a6090d3fdef20c2&what=Solutions+Architect&results_per_page=50&content-type=application%2Fjson&where=India&what_and=TOGAF+OSS
+2026-05-13 19:00:36,949 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-13 19:00:37,871 [ERROR] API request failed (keyword='solution architect', page=1): 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=d2d34573&app_key=2cee2ab04f1519850a6090d3fdef20c2&what=solution+architect&results_per_page=50&content-type=application%2Fjson&where=India&what_and=TOGAF+OSS
+2026-05-13 19:00:38,373 [INFO] Fetched 0 unique jobs across all keywords
+2026-05-13 19:00:38,374 [INFO] Filter result: 0/0 jobs passed
+2026-05-13 19:00:38,374 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-13 19:00:38,374 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-13 19:00:38,374 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-15 09:28:53,741 [INFO] === Job Hunt starting ===
+2026-05-15 09:28:53,747 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 09:28:53,748 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-15 09:28:55,190 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-15 09:28:56,496 [INFO] Fetched 1 unique jobs across all keywords
+2026-05-15 09:28:56,499 [INFO] Filter result: 1/1 jobs passed
+2026-05-15 09:28:56,499 [INFO] AI ranking 1 candidate jobs (from 1 fetched)
+2026-05-15 09:28:57,036 [INFO] AI shortlist: 1 selected out of 1 candidates
+2026-05-15 09:28:57,037 [INFO] Post-LLM result (Solutions Architect): 1 jobs
+2026-05-15 09:28:57,889 [INFO] Email sent to jkatnottingham@gmail.com with 1 jobs
+2026-05-15 09:28:57,889 [INFO] === Job Hunt done — 1 job(s) reported ===
+2026-05-15 09:30:20,877 [INFO] === Job Hunt starting ===
+2026-05-15 09:30:20,881 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 09:30:20,882 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-15 09:30:22,602 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-15 09:30:23,989 [INFO] Fetched 0 unique jobs across all keywords
+2026-05-15 09:30:23,990 [INFO] Filter result: 0/0 jobs passed
+2026-05-15 09:30:23,990 [INFO] Post-LLM result (Solutions Architect): 0 jobs
+2026-05-15 09:30:23,990 [INFO] No new jobs and send_if_empty=false — skipping email
+2026-05-15 09:30:23,991 [INFO] === Job Hunt done — 0 job(s) reported ===
+2026-05-15 09:30:36,501 [INFO] === Job Hunt starting ===
+2026-05-15 09:30:36,506 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 09:30:36,506 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-15 09:30:38,120 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-15 09:30:39,575 [INFO] Fetched 10 unique jobs across all keywords
+2026-05-15 09:30:39,575 [INFO] Filter result: 10/10 jobs passed
+2026-05-15 09:30:39,576 [INFO] AI ranking 10 candidate jobs (from 10 fetched)
+2026-05-15 09:30:40,328 [INFO] AI shortlist: 3 selected out of 10 candidates
+2026-05-15 09:30:40,329 [INFO] Post-LLM result (Solutions Architect): 3 jobs
+2026-05-15 09:30:41,322 [INFO] Email sent to jkatnottingham@gmail.com with 3 jobs
+2026-05-15 09:30:41,322 [INFO] === Job Hunt done — 3 job(s) reported ===
+2026-05-15 09:31:13,145 [INFO] === Job Hunt starting ===
+2026-05-15 09:31:13,150 [INFO] === Processing role: Solutions Architect ===
+2026-05-15 09:31:13,151 [INFO] Fetching jobs for keyword: 'Solutions Architect'
+2026-05-15 09:31:14,832 [INFO] Fetching jobs for keyword: 'solution architect'
+2026-05-15 09:31:16,589 [INFO] Fetched 14 unique jobs across all keywords
+2026-05-15 09:31:16,590 [INFO] Filter result: 14/14 jobs passed
+2026-05-15 09:31:16,590 [INFO] AI ranking 14 candidate jobs (from 14 fetched)
+2026-05-15 09:31:17,576 [INFO] AI shortlist: 6 selected out of 14 candidates
+2026-05-15 09:31:17,576 [INFO] Post-LLM result (Solutions Architect): 6 jobs
+2026-05-15 09:31:18,352 [INFO] Email sent to jkatnottingham@gmail.com with 6 jobs
+2026-05-15 09:31:18,353 [INFO] === Job Hunt done — 6 job(s) reported ===

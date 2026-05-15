@@ -66,8 +66,10 @@ def _fetch_keyword(keyword: str, adzuna_cfg: dict, search_cfg: dict, filters: di
         elif job_type == "contract":
             params["contract"] = 1
 
-        if filters.get("remote_only"):
-            params["what_and"] = "remote"
+
+        required_keywords = filters.get("required_keywords", [])
+        if required_keywords:
+            params["what_and"] = " ".join(required_keywords)
 
         if filters.get("categories"):
             params["category"] = filters["categories"][0]

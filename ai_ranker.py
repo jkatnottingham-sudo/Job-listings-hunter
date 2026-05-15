@@ -35,7 +35,7 @@ def shortlist_jobs_with_ai(jobs: list[dict], config: dict) -> list[dict]:
     model = ai_cfg.get("model", "llama-3.3-70b-versatile")
     timeout_s = int(ai_cfg.get("timeout_seconds", 45))
 
-    # Prioritize most recent items before sending to model.
+# Prioritize most recent items before sending to model.
     candidates = sorted(jobs, key=lambda j: j.get("created") or "", reverse=True)[:max_jobs]
     logger.info("AI ranking %s candidate jobs (from %s fetched)", len(candidates), len(jobs))
 
@@ -121,7 +121,6 @@ def _call_model(
         )
 
     target_roles = ai_cfg.get("target_roles", [])
-    must_have = ai_cfg.get("must_have_keywords", [])
     nice_to_have = ai_cfg.get("nice_to_have_keywords", [])
     avoid = ai_cfg.get("avoid_keywords", [])
 
@@ -132,7 +131,6 @@ def _call_model(
     user_prompt = (
         "Rank jobs and return the best matches.\n"
         f"Target roles: {target_roles}\n"
-        f"Must-have keywords: {must_have}\n"
         f"Nice-to-have keywords: {nice_to_have}\n"
         f"Avoid keywords: {avoid}\n"
         f"Select up to {top_k} jobs.\n"

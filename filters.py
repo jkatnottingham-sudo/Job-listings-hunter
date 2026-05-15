@@ -26,12 +26,7 @@ def _reject_reason(job: dict, filters: dict) -> str | None:
         if kw.lower() in text:
             return f"exclude keyword '{kw}'"
 
-    # Required keywords — ALL must appear in title or description
-    for kw in filters.get("required_keywords", []):
-        if kw.lower() not in text:
-            return f"missing required keyword '{kw}'"
-
-    # Salary filters
+# Salary filters
     min_sal = filters.get("min_salary", 0)
     if min_sal:
         job_max = job.get("salary_max") or job.get("salary_min")
