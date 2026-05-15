@@ -12,3 +12,4 @@ hunter.log
 # OS / editor (optional)
 .env
 .DS_Store
+.claude/
