@@ -42,7 +42,7 @@ roles:
         min_salary: 0
         max_salary: 0
         job_type: ""
-        required_keywords: ["Telecom","5G"]
+        required_keywords: ["Telecom","SOM"]
         exclude_keywords:
           - "principal"
           - "director"
